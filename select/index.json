@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月子さん",
+  "base_artist": "4na",
+  "createdAt": "2026-03-28T06:58:25.689065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月子さん",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/01_月子さん_4na.lrc"
+    }
+  ]
+}
